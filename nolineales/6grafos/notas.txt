@@ -1,0 +1,6 @@
+GRAFOS
+Un grafo contiene vértices (por ejemplo, sedes) y aristas que representan conexiones. Puede representarse con listas de adyacencia.
+Un recorrido BFS o DFS procesa cada vértice y conexión en O(V + E), donde V es el número de vértices y E el de conexiones.
+Úsalo para representar sedes conectadas y explorar rutas o lugares alcanzables.
+Ejemplos: ConexionesSedes.java (relaciones), RecorridoBFS.java (anchura), RecorridoDFS.java (profundidad).
+Práctica: agrega una sede y conéctala con dos sedes existentes.
