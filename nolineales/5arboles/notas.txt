@@ -1,0 +1,6 @@
+ÁRBOLES
+Un árbol relaciona nodos en niveles. En un árbol binario de búsqueda, los valores menores van a la izquierda y los mayores a la derecha.
+Insertar o buscar: O(log n) promedio si está equilibrado; puede llegar a O(n) si queda desbalanceado. Recorrido completo: O(n).
+Úsalo para organizar códigos y recorrerlos ordenadamente.
+Ejemplos: ArbolCodigos.java (insertar y ordenar), BuscarCodigo.java (búsqueda), RecorridoPorNiveles.java (recorrido BFS).
+Práctica: agrega un código y verifica si el árbol lo encuentra.
