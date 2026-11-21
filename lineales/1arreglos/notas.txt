@@ -1,0 +1,6 @@
+ARREGLOS
+Un arreglo guarda elementos del mismo tipo en posiciones numeradas. Su tamaño se fija al crearlo.
+Acceso por índice: O(1). Recorrido y búsqueda lineal: O(n). Ordenar suele requerir O(n log n) con algoritmos eficientes.
+Úsalo cuando conoces la cantidad de datos y necesitas acceder por posición.
+Ejemplos: BuscarLibro.java (búsqueda), OrdenarTitulos.java (ordenamiento), ContarEjemplares.java (recorrido y suma).
+Práctica: cuenta cuántos libros tienen menos de tres ejemplares.
