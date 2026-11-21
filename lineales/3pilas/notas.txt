@@ -1,0 +1,6 @@
+PILAS
+Una pila sigue LIFO: el último elemento agregado es el primero en salir. Sus operaciones principales son push, pop y peek.
+Agregar, retirar o consultar la cima: O(1). Buscar dentro de la pila: O(n).
+Úsala para deshacer la acción más reciente o mantener un historial que se recorre hacia atrás.
+Ejemplos: HistorialCambios.java, RevertirPrestamo.java y RevisarUltimaAccion.java.
+Práctica: guarda tres cambios y muestra cuál se desharía primero.
