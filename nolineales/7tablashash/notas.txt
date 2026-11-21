@@ -1,0 +1,6 @@
+TABLAS HASH
+Una tabla hash guarda pares clave-valor. En este proyecto, la clave puede ser el ISBN y el valor el título o la cantidad de préstamos.
+Buscar, insertar y eliminar: O(1) promedio; en casos desfavorables puede llegar a O(n).
+Úsala para localizar libros por una clave única como el ISBN.
+Ejemplos: BuscarPorIsbn.java (búsqueda), RegistrarPrestamo.java (actualizar un contador), ContarPrestamos.java (agrupar cantidades).
+Práctica: registra el número de préstamos de varios ISBN e identifica el más solicitado.
