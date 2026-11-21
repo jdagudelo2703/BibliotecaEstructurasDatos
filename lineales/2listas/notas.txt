@@ -1,0 +1,6 @@
+LISTAS ENLAZADAS
+Una lista enlazada conecta nodos; cada nodo guarda un dato y la referencia al siguiente. Puede crecer o reducirse durante la ejecución.
+Agregar o quitar al inicio: O(1). Buscar un valor: O(n). Recorrer todos los elementos: O(n).
+Úsala cuando la cantidad de elementos cambia con frecuencia.
+Ejemplos: CatalogoDinamico.java (agregar y retirar), EliminarLibro.java (eliminar por título), RecorrerCatalogo.java (recorrido).
+Práctica: agrega un libro al final y luego busca si está en la lista.
