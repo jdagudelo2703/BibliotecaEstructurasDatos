@@ -1,0 +1,6 @@
+COLAS
+Una cola sigue FIFO: el primer elemento que llega es el primero que se atiende. Sus operaciones principales son offer, poll y peek.
+Agregar o atender al frente: O(1) en una cola adecuada. Recorrer la cola: O(n).
+Úsala para solicitudes, turnos o reservas que deben respetar el orden de llegada.
+Ejemplos: ColaSolicitudes.java, ReservasPendientes.java y TurnosAtencion.java.
+Práctica: agrega cuatro solicitudes y atiéndelas en el orden recibido.
